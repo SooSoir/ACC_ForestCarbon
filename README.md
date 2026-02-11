@@ -7,3 +7,5 @@ Subdirectories:
 - 'data': Datasets used for simulated analyses.
 - 'code': Scripts for status analysis (under ACC), attribution analysis (ANPP and IAV), and figure generation.
 - 'figure' & 'table': Input and output files presented in both the manuscript and supplementary materials.
+
+Contact: soky0711@uos.ac.kr
