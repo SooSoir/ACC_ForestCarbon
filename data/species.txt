@@ -1,0 +1,17 @@
+LandisData	Species
+												
+												
+>>				Sexual	Shade	Fire	Seed Disp Dist	Veg	Sprout	Age	Post-Fire	
+>>	Name		Long	Maturit	Tol.	Tol.	Effecti	Maximum	Rep P	Min	Max	Regen
+>>	----		-------	-----	-----	----	------  -------	-----	----	-----	--------	
+	CastCren	300	16	2	2	154	1957	0.6	9	120	resprout	
+	ChamObtu	240	41	3	2	127	360	0.3	3	44	none	
+	CrypJapo	300	5	2	1	73	300	0.5	0	60	none	
+	LariKaem	100	100	2	2	100	400	0.2	0	0	none	
+	PinuDens	275	13	2	1	545	1150	0.8	10	150	none	
+	PinuKora	342	18	3	3	33	200	0	0	0	none	
+	PinuRigi	100	100	2	4	90	150	0.5	10	100	resprout	
+	PinuThun	240	41	3	2	127	360	0.3	3	44	none	
+	Conifero	240	41	3	2	127	360	0.3	3	44	none	
+	Quercuss	344	24	3	3	23	275	0.8	10	277	resprout	
+	Broadlea	272	16	2	2	154	1957	0.6	9	120	resprout
