@@ -1,7 +1,7 @@
-# Anthropogenic Climate Change effects on Annual Forest Net Primary Productivity and Its Interannual Variability on forest types of South Korea
+# Anthropogenic climate change-induced changes in forest carbon sequestration may challenge progress toward achieving net-zero targets
 
 This repository contains the core python scripts, data, figure and table:
-> Anthropogenic Climate Change effects on Annual Forest Net Primary Productivity and Its Interannual Variability on forest types of South Korea
+> Anthropogenic climate change-induced changes in forest carbon sequestration may challenge progress toward achieving net-zero targets
 
 Subdirectories:
 - 'data': Datasets used for simulated analyses.
