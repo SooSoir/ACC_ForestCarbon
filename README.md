@@ -1,7 +1,7 @@
-# Anthropogenic climate change-induced changes in forest carbon sequestration may challenge progress toward achieving net-zero targets
+# ACC Forest Carbon
 
 This repository contains the core python scripts, data, figure and table:
-> Anthropogenic climate change-induced changes in forest carbon sequestration may challenge progress toward achieving net-zero targets
+> Anthropogenic Climate Change effects on Annual Forest Net Primary Productivity and Its Interannual Variability in South Korea: Implications for National Carbon Reporting
 
 Subdirectories:
 - 'data': Datasets used for simulated analyses.
